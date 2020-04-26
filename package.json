@@ -1,0 +1,12 @@
+{
+  "name": "scraping101",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^3.0.1",
+    "rxjs": "^6.5.5"
+  }
+}
